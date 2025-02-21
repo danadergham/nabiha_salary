@@ -29,4 +29,15 @@ else:
 
 left_after_savings=remainder+additional_savings
 
-
+print("Salary for", month, ":", salary)
+print("Savings (", savings_percentage, "%):", savings)
+print("Rent (", rent_percentage, "%):", rent)
+print("Electricity (", electricity_percentage, "%):", electricity)
+print("Total expenses:", total_expenses)
+print("Remaining after expenses:", remainder)
+print("Estimated yearly rent:", yearly_rent)
+print("Estimated yearly electricity:", yearly_electricity)
+print("Salary squared (just for fun):", salary_squared)
+print("Random additional savings:", additional_savings)
+print("How many times the additional savings fit into savings:", savings_division)
+print("Left salary after adding random savings:", left_after_savings)
