@@ -17,3 +17,11 @@ yearly_rent=rent*12
 yearly_electricity= electricity*12
 
 salary_squared= salary**2
+
+import random
+additional_savings=random.randint(10,100)
+if savings>0:
+    savings_division=additional_savings/savings
+else:
+    savings_division=0
+    
