@@ -15,3 +15,5 @@ remainder= salary - total_expenses
 
 yearly_rent=rent*12
 yearly_electricity= electricity*12
+
+salary_squared= salary**2
