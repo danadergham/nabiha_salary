@@ -24,4 +24,9 @@ if savings>0:
     savings_division=additional_savings/savings
 else:
     savings_division=0
-    
+
+
+
+left_after_savings=remainder+additional_savings
+
+
