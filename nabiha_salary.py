@@ -13,3 +13,5 @@ total_expenses= savings+rent+electricity
 
 remainder= salary - total_expenses
 
+yearly_rent=rent*12
+yearly_electricity= electricity*12
