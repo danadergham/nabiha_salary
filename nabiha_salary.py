@@ -9,3 +9,4 @@ savings=(savings_percentage/100)*salary
 rent=(rent_percentage/100)*salary
 electricity=(electricity_percentage/100)*salary
 
+total_expenses= savings+rent+electricity
